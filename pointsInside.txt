@@ -1,0 +1,6 @@
+Points coordinates
+Point with coordinates 2;7.5 is inside the figure.
+Points coordinates
+Point with coordinates 3;8 is inside the figure.
+Points coordinates
+Point with coordinates 13;11 is inside the figure.
